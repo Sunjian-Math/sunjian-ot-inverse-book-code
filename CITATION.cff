@@ -3,11 +3,11 @@ title: "Inverse Problems and Optimal Transport: Companion Code Repository"
 message: "If you use this companion repository, please cite the associated book and this repository."
 type: software
 authors:
-  - family-names: "Sun"
-    given-names: "Jian"
   - family-names: "Wang"
     given-names: "Wenshuai"
+  - family-names: "Sun"
+    given-names: "Jian"
 repository-code: "https://github.com/Sunjian-Math/sunjian-ot-inverse-book-code"
 license: MIT
-version: "0.4.0"
+version: "0.5.0"
 date-released: "2026-06-27"

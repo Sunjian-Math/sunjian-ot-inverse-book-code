@@ -1,0 +1,16 @@
+Validation summary for final_pub_v5
+===================================
+Python AST errors: 0
+BibTeX entries: 19
+BibTeX brace balance: PASS
+BibTeX duplicate keys: 0
+Missing expected practice keys: []
+Unexpected practice keys: []
+Deprecated practice-key occurrences outside validation report: 0
+Chinese title occurrences: 1
+Chinese author name Wang occurrences: 1
+Chinese author name Sun occurrences: 1
+Repository placeholder occurrences: 0
+Old Chinese title occurrences: 0
+Banner has finalized English author order: True
+Workflow contains author names: False

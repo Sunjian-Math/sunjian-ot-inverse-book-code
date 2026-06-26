@@ -10,6 +10,6 @@ This directory corresponds to the Chapter 5 practice section on differentiable S
 
 ## Source note
 
-Practice-section references include Cuturi (2013), Feydy et al. (2019), and Peyré & Cuturi (2019).
+Practice-section references include Cuturi (2013), Feydy et al. (2019), and Peyré and Cuturi (2019). This directory contains a self-written teaching script rather than third-party source code.
 
-For the practice-section source catalogue, see [`../../third_party/SOURCE.md`](../../third_party/SOURCE.md). BibTeX entries for practice-section references are available in [`../../third_party/references.bib`](../../third_party/references.bib).
+For the practice-section source catalogue, see [`../../third_party/SOURCE.md`](../../third_party/SOURCE.md). Manuscript-synchronized BibTeX entries for practice-section references and external repository entries are available in [`../../third_party/references.bib`](../../third_party/references.bib).

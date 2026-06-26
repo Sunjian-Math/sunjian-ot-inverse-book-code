@@ -6,10 +6,12 @@ This directory corresponds to the Chapter 7 practice discussion of OT-CycleGAN f
 
 ## Contents
 
-`simulation_data.py` generates teaching LDCT/SDCT-domain samples from a Shepp--Logan phantom by applying Gaussian smoothing, Poisson noise, and Gaussian noise.
+`simulation_data.py` is a self-written teaching script that generates synthetic LDCT/SDCT-domain samples from a Shepp--Logan phantom by applying Gaussian smoothing, Poisson noise, and Gaussian noise.
 
 ## Source note
 
-External source: https://github.com/jryoungw/OT_CycleGAN.
+External repository: `jryoungw/OT_CycleGAN`.
 
-For the practice-section source catalogue, see [`../../third_party/SOURCE.md`](../../third_party/SOURCE.md). BibTeX entries for practice-section references are available in [`../../third_party/references.bib`](../../third_party/references.bib).
+The synthetic LDCT/SDCT-domain data generated in this directory are self-written teaching examples. They are not real clinical CT data and are not intended for clinical validation. Real low-dose and standard-dose CT datasets may involve patient privacy, ethics approval, data-use agreements, and institutional restrictions. This directory does not redistribute the OT-CycleGAN source code, clinical datasets, pretrained models, or model weights.
+
+For the practice-section source catalogue, see [`../../third_party/SOURCE.md`](../../third_party/SOURCE.md). Manuscript-synchronized BibTeX entries for practice-section references and external repository entries are available in [`../../third_party/references.bib`](../../third_party/references.bib).

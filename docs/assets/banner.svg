@@ -5,5 +5,5 @@
   <path d="M120 235 C230 135, 345 250, 455 150 S690 120, 780 205 S950 260, 1080 155" fill="none" stroke="#ffffff" stroke-width="8" opacity="0.85"/>
   <path d="M130 245 C250 165, 330 210, 450 175 S660 150, 780 215 S960 250, 1070 180" fill="none" stroke="#9fd3ff" stroke-width="4" opacity="0.9"/>
   <text x="80" y="120" fill="#ffffff" font-family="Arial, sans-serif" font-size="42" font-weight="700">Inverse Problems and Optimal Transport</text>
-  <text x="80" y="176" fill="#d8ecff" font-family="Arial, sans-serif" font-size="28">Jian Sun · Wenshuai Wang</text>
+  <text x="80" y="176" fill="#d8ecff" font-family="Arial, sans-serif" font-size="28">Wenshuai Wang · Jian Sun</text>
 </svg>

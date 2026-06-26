@@ -10,6 +10,6 @@ This directory corresponds to the Chapter 3 practice section on a finite-dimensi
 
 ## Source note
 
-POT: https://github.com/PythonOT/POT.
+The external toolbox used by the teaching script is `PythonOT/POT`; see the project repository and corresponding paper in `../../third_party/SOURCE.md`.
 
-For the practice-section source catalogue, see [`../../third_party/SOURCE.md`](../../third_party/SOURCE.md). BibTeX entries for practice-section references are available in [`../../third_party/references.bib`](../../third_party/references.bib).
+For the practice-section source catalogue, see [`../../third_party/SOURCE.md`](../../third_party/SOURCE.md). Manuscript-synchronized BibTeX entries for practice-section references and external repository entries are available in [`../../third_party/references.bib`](../../third_party/references.bib).

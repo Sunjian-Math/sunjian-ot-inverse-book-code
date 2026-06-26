@@ -6,10 +6,10 @@ This directory records the public sources associated with the Chapter 10 practic
 
 ## Contents
 
-`README.md` records the chapter source note.
+`README.md` records chapter-level source notes, citation information, and reproducibility entry-point guidance for Flower and pyABC. It does not redistribute third-party source code, datasets, model weights, trained models, or documentation.
 
 ## Source note
 
-External sources: https://github.com/mehrsapo/Flower and https://github.com/ICB-DCM/pyABC.
+External repositories: `mehrsapo/Flower` and `ICB-DCM/pyABC`.
 
-For the practice-section source catalogue, see [`../../third_party/SOURCE.md`](../../third_party/SOURCE.md). BibTeX entries for practice-section references are available in [`../../third_party/references.bib`](../../third_party/references.bib).
+For the practice-section source catalogue, see [`../../third_party/SOURCE.md`](../../third_party/SOURCE.md). Manuscript-synchronized BibTeX entries for practice-section references and external repository entries are available in [`../../third_party/references.bib`](../../third_party/references.bib).

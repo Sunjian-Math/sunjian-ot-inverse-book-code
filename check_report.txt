@@ -3,24 +3,28 @@ Repository check report
 
 Repository: sunjian-ot-inverse-book-code
 Title: Inverse Problems and Optimal Transport: Companion Code Repository
-Chinese monograph title retained once in README: 《反问题与最优传输》
 Repository URL: https://github.com/Sunjian-Math/sunjian-ot-inverse-book-code
+Release tag prepared as: final_pub_v5
 
 Checks performed
 ----------------
 - Python AST errors: 0
-- BibTeX entries: 19
+- BibTeX entries in third_party/references.bib: 19
 - BibTeX brace balance: PASS
-- USERNAME placeholder occurrences: 0
+- Practice-section BibTeX keys synchronized with the finalized manuscript: PASS
+- Missing practice-section BibTeX keys: 0
+- Deprecated practice-section BibTeX keys removed: PASS
+- POT repository entry included: PASS
+- Unreferenced pyABC 2018 entry removed from practice-section BibTeX: PASS
+- Repository placeholder occurrences: 0
 - Old Chinese title occurrences: 0
-- Chinese title occurrences: 1
-- Chinese author name 孙建 occurrences: 1
-- Chinese author name 汪文帅 occurrences: 1
-- Banner: English book title plus English author names only.
+- Chinese monograph title retained once in README opening description: PASS
+- Chinese author names retained once in README opening description: PASS
+- Banner: English book title plus English author names only, ordered consistently with the finalized manuscript.
 - Workflow SVG: no author names.
 - QR PNG exists: True
 - QR PDF exists: True
 
 Notes
 -----
-The repository uses English filenames, paths, metadata, and third-party source records. The Chinese monograph title and Chinese author names are retained only once in the README opening description.
+The repository uses English filenames, paths, metadata, and third-party source records. The Chinese monograph title and Chinese author names are retained only in the README opening description. This v5 package updates repository documentation, practice-section BibTeX keys, source notes, citation metadata, and chapter README files only; self-written Python scripts are unchanged.

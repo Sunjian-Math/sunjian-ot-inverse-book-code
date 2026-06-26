@@ -6,10 +6,10 @@ This directory records the public source associated with the Chapter 9 practice 
 
 ## Contents
 
-`README.md` records the chapter source note.
+`README.md` records chapter-level source notes, citation information, and reproducibility entry-point guidance. It does not redistribute the original OT-Flow source code, datasets, model weights, trained models, or documentation.
 
 ## Source note
 
-External source: https://github.com/EmoryMLIP/OT-Flow.
+External repository: `EmoryMLIP/OT-Flow`.
 
-For the practice-section source catalogue, see [`../../third_party/SOURCE.md`](../../third_party/SOURCE.md). BibTeX entries for practice-section references are available in [`../../third_party/references.bib`](../../third_party/references.bib).
+For the practice-section source catalogue, see [`../../third_party/SOURCE.md`](../../third_party/SOURCE.md). Manuscript-synchronized BibTeX entries for practice-section references and external repository entries are available in [`../../third_party/references.bib`](../../third_party/references.bib).

@@ -40,6 +40,10 @@ Reference and source catalogue
 - third_party/SOURCE.md keeps the fuller attribution notes, BibTeX keys, and source roles.
 - third_party/references.bib contains 19 entries.
 
+Visual asset checks
+- Banner SVG contains no Chinese book title and no author names.
+- Workflow SVG contains no author names.
+
 Local checks
 - Python file count: 7
 - Python AST parse: PASS

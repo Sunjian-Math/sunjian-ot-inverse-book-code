@@ -1,17 +1,19 @@
 # QR Code Instructions
 
-After the GitHub repository is published, use the repository URL to generate a QR code for the book's companion-code page.
+After the GitHub repository is published, generate a QR code for the repository URL:
 
-Suggested repository name:
-
-```text
-sunjian-ot-inverse-book-code
+```bash
+python tools/make_qr.py https://github.com/USERNAME/sunjian-ot-inverse-book-code
 ```
 
-The final QR code file used in the book manuscript can be named:
+The script writes:
+
+```text
+docs/assets/book_companion_code_qr.png
+```
+
+For the book manuscript, the final QR file can be exported as:
 
 ```text
 figures/qrcode/book_companion_code_qr.pdf
 ```
-
-A helper script is provided in `tools/make_qr.py`.

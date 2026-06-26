@@ -1,5 +1,5 @@
 # License and Attribution Notes
 
-This repository contains self-written teaching scripts and chapter-level source notes. External projects listed in `SOURCE.md` are cited as public sources and remain governed by their own licenses, authorship statements, and repository terms.
+The self-written scripts in this companion repository are governed by the repository license.
 
-The presence of an external project in `SOURCE.md` is a citation/source record for the book. It is not a transfer of license, ownership, or endorsement.
+External projects listed in `SOURCE.md` are cited for attribution and source tracking. Their source code, data, model weights, documentation, and other project materials remain governed by the licenses and terms of the corresponding original projects.

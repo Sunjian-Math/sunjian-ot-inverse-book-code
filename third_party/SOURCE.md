@@ -1,6 +1,6 @@
-# External Source Catalogue
+# Practice-Section Source Catalogue
 
-This file records the public repositories and bibliographic references cited or discussed in the book manuscript. Repository links are listed for attribution and source tracking.
+This file records public repositories and bibliographic items cited in the book practice sections. It is a practice-section source catalogue, not the full bibliography of the book manuscript.
 
 ## Chapters 3--4: POT — Python Optimal Transport
 
@@ -17,9 +17,8 @@ This file records the public repositories and bibliographic references cited or 
 
 - Repository: https://github.com/adler-j/learned_primal_dual
 - Reference: Adler and Öktem (2018), *Learned Primal-Dual Reconstruction*, IEEE Transactions on Medical Imaging.
-
 - Repository: https://github.com/adler-j/wasserstein_inverse_problems
-- Reference: Adler, Ringh, Öktem, and Karlsson (2018), *Learning to solve inverse problems using Wasserstein loss*, arXiv:1710.10898.
+- Reference: Adler, Ringh, Öktem, and Karlsson (2018), *Learning to solve inverse problems using Wasserstein loss*.
 
 ## Chapter 7: OT-CycleGAN
 
@@ -39,7 +38,6 @@ This file records the public repositories and bibliographic references cited or 
 ## Chapter 10: Flower and pyABC
 
 - Repository: https://github.com/mehrsapo/Flower
-- Reference: Pourya, El Rawas, and Unser (2025), *FLOWER: A Flow-Matching Solver for Inverse Problems*, arXiv:2509.26287.
-
+- Reference: Pourya, El Rawas, and Unser (2025), *FLOWER: A Flow-Matching Solver for Inverse Problems*.
 - Repository: https://github.com/ICB-DCM/pyABC
-- Reference: Schälte, Klinger, Alamoudi, and Hasenauer (2022), *pyABC: Efficient and robust easy-to-use approximate Bayesian computation*, Journal of Open Source Software.
+- Reference: Klinger et al. (2018), *pyABC: distributed, likelihood-free inference*, Bioinformatics.

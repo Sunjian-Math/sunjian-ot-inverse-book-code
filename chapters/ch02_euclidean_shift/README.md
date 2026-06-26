@@ -6,10 +6,10 @@ This directory corresponds to the Chapter 2 practice section on pointwise Euclid
 
 ## Contents
 
-`main.py` constructs a reference Gaussian signal and a shifted signal, computes pointwise residuals and an $L^2$ shift landscape, and visualizes the residual structure.
+`main.py` is a self-written teaching script for a shifted Gaussian signal, pointwise residuals, and an $L^2$ shift landscape.
 
 ## Source note
 
-This chapter directory uses a self-written teaching script.
+Self-written teaching script.
 
-For the complete source catalogue used by the book, see [`../../third_party/SOURCE.md`](../../third_party/SOURCE.md).
+For the practice-section source catalogue, see [`../../third_party/SOURCE.md`](../../third_party/SOURCE.md). BibTeX entries for practice-section references are available in [`../../third_party/references.bib`](../../third_party/references.bib).

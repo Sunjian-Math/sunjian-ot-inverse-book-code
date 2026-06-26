@@ -4,3 +4,4 @@ scipy
 POT
 torch
 scikit-image
+qrcode

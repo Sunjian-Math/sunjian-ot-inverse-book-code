@@ -5,7 +5,9 @@ type: software
 authors:
   - family-names: "Sun"
     given-names: "Jian"
+  - family-names: "Wang"
+    given-names: "Wenshuai"
 repository-code: "https://github.com/USERNAME/sunjian-ot-inverse-book-code"
 license: MIT
-version: "0.1.0"
+version: "0.2.0"
 date-released: "2026-06-27"

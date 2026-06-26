@@ -2,7 +2,7 @@
 
 ## Overview
 
-This directory corresponds to the Chapter 7 discussion of OT-CycleGAN for unpaired CT-domain translation and contains the synthetic CT-domain data-generation script used by the book.
+This directory corresponds to the Chapter 7 practice discussion of OT-CycleGAN for unpaired CT-domain translation.
 
 ## Contents
 
@@ -10,6 +10,6 @@ This directory corresponds to the Chapter 7 discussion of OT-CycleGAN for unpair
 
 ## Source note
 
-External source: `https://github.com/jryoungw/OT_CycleGAN`.
+External source: https://github.com/jryoungw/OT_CycleGAN.
 
-For the complete source catalogue used by the book, see [`../../third_party/SOURCE.md`](../../third_party/SOURCE.md).
+For the practice-section source catalogue, see [`../../third_party/SOURCE.md`](../../third_party/SOURCE.md). BibTeX entries for practice-section references are available in [`../../third_party/references.bib`](../../third_party/references.bib).

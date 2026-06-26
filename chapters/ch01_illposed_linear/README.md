@@ -6,10 +6,10 @@ This directory corresponds to the Chapter 1 practice section on noise amplificat
 
 ## Contents
 
-`main.py` constructs a one-dimensional blurred forward operator, compares direct pseudo-inverse reconstruction with Tikhonov regularization, and visualizes the singular-value decay and reconstruction curves.
+`main.py` is a self-written teaching script for a blurred linear forward operator, direct pseudo-inverse reconstruction, and Tikhonov regularization.
 
 ## Source note
 
-This chapter directory uses a self-written teaching script.
+Self-written teaching script.
 
-For the complete source catalogue used by the book, see [`../../third_party/SOURCE.md`](../../third_party/SOURCE.md).
+For the practice-section source catalogue, see [`../../third_party/SOURCE.md`](../../third_party/SOURCE.md). BibTeX entries for practice-section references are available in [`../../third_party/references.bib`](../../third_party/references.bib).

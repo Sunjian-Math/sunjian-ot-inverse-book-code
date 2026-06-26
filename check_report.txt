@@ -1,21 +1,30 @@
-Repository uniform README check
-================================
-datasets directory exists: False
-ch01_illposed_linear: ['README.md', 'main.py']
-ch02_euclidean_shift: ['README.md', 'main.py']
-ch03_discrete_ot: ['README.md', 'main.py']
-ch04_wasserstein_shift: ['README.md', 'main.py']
-ch05_sinkhorn: ['README.md']
-ch06_lpd_wasserstein: ['README.md']
-ch07_ot_cyclegan: ['README.md', 'simulation_data.py']
-ch08_adfwi_sinkhorn_fwi: ['README.md']
-ch09_ot_flow_swiss_roll: ['README.md']
-ch10_posterior_flow_abc: ['README.md']
-unexpected py files in ch05/ch06/ch08/ch09/ch10: none
-README forbidden phrase check: PASS
-AST chapters/ch01_illposed_linear/main.py: PASS
-AST chapters/ch02_euclidean_shift/main.py: PASS
-AST chapters/ch03_discrete_ot/main.py: PASS
-AST chapters/ch04_wasserstein_shift/main.py: PASS
-AST chapters/ch07_ot_cyclegan/simulation_data.py: PASS
-AST tools/make_qr.py: PASS
+Repository check report
+=======================
+
+Authors in README: True
+Chapter 5 main.py exists: True
+Datasets directory exists: False
+Python files:
+- chapters/ch01_illposed_linear/main.py
+- chapters/ch02_euclidean_shift/main.py
+- chapters/ch03_discrete_ot/main.py
+- chapters/ch04_wasserstein_shift/main.py
+- chapters/ch05_sinkhorn/main.py
+- chapters/ch07_ot_cyclegan/simulation_data.py
+- tools/make_qr.py
+
+Chapter folder contents:
+- ch01_illposed_linear: ['README.md', 'main.py']
+- ch02_euclidean_shift: ['README.md', 'main.py']
+- ch03_discrete_ot: ['README.md', 'main.py']
+- ch04_wasserstein_shift: ['README.md', 'main.py']
+- ch05_sinkhorn: ['README.md', 'main.py']
+- ch06_lpd_wasserstein: ['README.md']
+- ch07_ot_cyclegan: ['README.md', 'simulation_data.py']
+- ch08_adfwi_sinkhorn_fwi: ['README.md']
+- ch09_ot_flow_swiss_roll: ['README.md']
+- ch10_posterior_flow_abc: ['README.md']
+
+Forbidden README phrases: none
+
+AST check: PASS

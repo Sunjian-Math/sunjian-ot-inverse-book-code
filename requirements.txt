@@ -1,0 +1,6 @@
+numpy
+matplotlib
+scipy
+POT
+torch
+scikit-image

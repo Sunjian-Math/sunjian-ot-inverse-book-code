@@ -1,0 +1,13 @@
+name: sunjian-ot-inverse-book-code
+channels:
+  - conda-forge
+dependencies:
+  - python>=3.10
+  - numpy
+  - matplotlib
+  - scipy
+  - scikit-image
+  - pytorch
+  - pip
+  - pip:
+      - POT

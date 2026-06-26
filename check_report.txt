@@ -1,30 +1,61 @@
-Repository check report
-=======================
+Repository verification report
+Generated on: 2026-06-27
 
-Authors in README: True
-Chapter 5 main.py exists: True
-Datasets directory exists: False
-Python files:
-- chapters/ch01_illposed_linear/main.py
-- chapters/ch02_euclidean_shift/main.py
-- chapters/ch03_discrete_ot/main.py
-- chapters/ch04_wasserstein_shift/main.py
-- chapters/ch05_sinkhorn/main.py
-- chapters/ch07_ot_cyclegan/simulation_data.py
+Repository: sunjian-ot-inverse-book-code
+Repository URL: https://github.com/Sunjian-Math/sunjian-ot-inverse-book-code
+Main GitHub title: Inverse Problems and Optimal Transport: Companion Code Repository
+
+Scope
+- Self-written teaching scripts remain unchanged except for the QR-code utility script.
+- Chapter experiment logic remains unchanged.
+- External repositories are linked for attribution and reproducibility only.
+- Third-party source code, datasets, trained models, and documentation are not redistributed.
+
+Document policy
+- README uses an English main title for GitHub readability.
+- The official Chinese book title appears once in README.
+- The Chinese author names appear once in README.
+- Other repository-level documentation is English-first.
+
+Updated files
+- README.md
+- CITATION.cff
+- requirements.txt
+- environment.yml
+- docs/qr_code_instructions.md
+- docs/repository_map.md
+- docs/assets/banner.svg
+- docs/assets/workflow.svg
+- docs/assets/book_companion_code_qr.png
+- figures/qrcode/book_companion_code_qr.pdf
+- third_party/README.md
+- third_party/SOURCE.md
+- third_party/LICENSES.md
+- third_party/references.bib
 - tools/make_qr.py
+- check_report.txt
 
-Chapter folder contents:
-- ch01_illposed_linear: ['README.md', 'main.py']
-- ch02_euclidean_shift: ['README.md', 'main.py']
-- ch03_discrete_ot: ['README.md', 'main.py']
-- ch04_wasserstein_shift: ['README.md', 'main.py']
-- ch05_sinkhorn: ['README.md', 'main.py']
-- ch06_lpd_wasserstein: ['README.md']
-- ch07_ot_cyclegan: ['README.md', 'simulation_data.py']
-- ch08_adfwi_sinkhorn_fwi: ['README.md']
-- ch09_ot_flow_swiss_roll: ['README.md']
-- ch10_posterior_flow_abc: ['README.md']
+Reference and source catalogue
+- README.md now includes direct public repository links and direct corresponding paper links in the practice-section source catalogue table.
+- third_party/SOURCE.md keeps the fuller attribution notes, BibTeX keys, and source roles.
+- third_party/references.bib contains 19 entries.
 
-Forbidden README phrases: none
+Local checks
+- Python file count: 7
+- Python AST parse: PASS
+- BibTeX entry count: 19
+- BibTeX brace balance: PASS
+- Repository URL placeholder check: PASS
+- Official Chinese title occurrence policy: PASS
+- Chinese author-name occurrence policy: PASS
+- QR PNG generated: PASS
+- QR PDF generated: PASS
 
-AST check: PASS
+Primary verified external sources
+- PythonOT/POT and the JMLR POT paper.
+- Cuturi (2013), Feydy et al. (2019), and Peyre-Cuturi (2019) for Sinkhorn and computational OT.
+- Learned Primal-Dual Reconstruction and Wasserstein-loss inverse-problem sources.
+- OT-CycleGAN repository and SIAM Journal on Imaging Sciences paper.
+- ADFWI repository and JGR: Machine Learning and Computation paper.
+- OT-Flow repository and AAAI paper.
+- Flower repository/OpenReview entry and pyABC repository/JOSS/Bioinformatics papers.

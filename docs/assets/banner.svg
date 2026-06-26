@@ -1,16 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="300" viewBox="0 0 1400 300">
-  <defs>
-    <linearGradient id="g" x1="0" x2="1" y1="0" y2="1">
-      <stop offset="0" stop-color="#0b1f4d"/>
-      <stop offset="1" stop-color="#2f7ed8"/>
-    </linearGradient>
-  </defs>
-  <rect width="1400" height="300" rx="26" fill="url(#g)"/>
-  <circle cx="1150" cy="80" r="95" fill="#ffffff" opacity="0.12"/>
-  <circle cx="1260" cy="210" r="130" fill="#ffffff" opacity="0.10"/>
-  <path d="M190 205 C330 65, 510 245, 665 115 S1010 125, 1160 70" fill="none" stroke="#ffffff" stroke-width="8" opacity="0.72"/>
-  <path d="M190 225 C330 85, 510 265, 665 135 S1010 145, 1160 90" fill="none" stroke="#9ed0ff" stroke-width="4" opacity="0.9"/>
-  <text x="80" y="105" fill="#ffffff" font-family="Times New Roman, serif" font-size="45" font-weight="700">Optimal Transport for Inverse Problems</text>
-  <text x="80" y="162" fill="#dbeeff" font-family="Arial, sans-serif" font-size="28">Companion code and practice-section source catalogue</text>
-  <text x="80" y="215" fill="#ffffff" font-family="Arial, sans-serif" font-size="24">Jian Sun (孙建) · Wenshuai Wang (汪文帅)</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Inverse Problems and Optimal Transport companion code repository banner">
+  <rect width="1200" height="320" fill="#123b6d"/>
+  <circle cx="1030" cy="110" r="82" fill="#2d6fb7" opacity="0.55"/>
+  <circle cx="930" cy="210" r="56" fill="#7db7e8" opacity="0.35"/>
+  <path d="M120 235 C230 135, 345 250, 455 150 S690 120, 780 205 S950 260, 1080 155" fill="none" stroke="#ffffff" stroke-width="8" opacity="0.85"/>
+  <path d="M130 245 C250 165, 330 210, 450 175 S660 150, 780 215 S960 250, 1070 180" fill="none" stroke="#9fd3ff" stroke-width="4" opacity="0.9"/>
+  <text x="80" y="92" fill="#ffffff" font-family="Arial, sans-serif" font-size="38" font-weight="700">Inverse Problems and Optimal Transport</text>
+  <text x="80" y="142" fill="#d8ecff" font-family="Arial, sans-serif" font-size="28">Companion Code Repository</text>
+  <text x="80" y="203" fill="#ffffff" font-family="Arial, sans-serif" font-size="24">Practice scripts · source catalogue · reproducibility links</text>
+  <text x="80" y="240" fill="#ffffff" font-family="Arial, sans-serif" font-size="22">Jian Sun · Wenshuai Wang</text>
 </svg>

@@ -1,13 +1,13 @@
 cff-version: 1.2.0
-title: "Optimal Transport for Inverse Problems — Companion Code"
-message: "If you use the self-written teaching scripts in this repository, please cite the book and this companion repository."
+title: "Inverse Problems and Optimal Transport: Companion Code Repository"
+message: "If you use this companion repository, please cite the associated book and this repository."
 type: software
 authors:
   - family-names: "Sun"
     given-names: "Jian"
   - family-names: "Wang"
     given-names: "Wenshuai"
-repository-code: "https://github.com/USERNAME/sunjian-ot-inverse-book-code"
+repository-code: "https://github.com/Sunjian-Math/sunjian-ot-inverse-book-code"
 license: MIT
-version: "0.2.0"
+version: "0.4.0"
 date-released: "2026-06-27"
